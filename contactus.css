@@ -1,0 +1,21 @@
+.contactinfo {
+  display: flex;
+}
+
+.contact-us-text {
+  color: #666;
+  margin: auto;
+  padding: 20px;
+  text-align: center;
+}
+
+.inputs {
+  display: block;
+}
+
+.form-data {
+  background-color: #f6f6f6;
+
+  display: flex;
+  gap: 300px;
+}

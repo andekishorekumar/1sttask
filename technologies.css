@@ -1,0 +1,18 @@
+.container {
+  color: white;
+  position: relative;
+}
+
+.center {
+  position: absolute;
+  top: 40%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: white;
+  font-size: 60px;
+}
+
+/* .card-container {
+  background-color: #caf4ff;
+  gap: 200px;
+} */
